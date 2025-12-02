@@ -1,4 +1,4 @@
-ip_prefix,alpha2code,region,city,postal_code
+# ip_prefix,alpha2code,region,city,postal_code
 154.62.164.0/22,GB,GB-ENG,LONDON,
 154.62.168.0/22,GB,GB-ENG,MANCHESTER,
 38.126.80.0/21,GB,GB-ENG,LONDON,
